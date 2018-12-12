@@ -1,0 +1,11 @@
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\obj\Debug\netcoreapp2.1\placesToGo.csprojAssemblyReference.cache
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\obj\Debug\netcoreapp2.1\placesToGo.csproj.CoreCompileInputs.cache
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\obj\Debug\netcoreapp2.1\placesToGo.AssemblyInfoInputs.cache
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\obj\Debug\netcoreapp2.1\placesToGo.AssemblyInfo.cs
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\bin\Debug\netcoreapp2.1\placesToGo.deps.json
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\bin\Debug\netcoreapp2.1\placesToGo.runtimeconfig.json
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\bin\Debug\netcoreapp2.1\placesToGo.runtimeconfig.dev.json
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\bin\Debug\netcoreapp2.1\placesToGo.dll
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\bin\Debug\netcoreapp2.1\placesToGo.pdb
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\obj\Debug\netcoreapp2.1\placesToGo.dll
+C:\Users\Ronad\source\repos\placesToGo\placesToGo\obj\Debug\netcoreapp2.1\placesToGo.pdb
